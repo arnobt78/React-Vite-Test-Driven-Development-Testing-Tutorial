@@ -1,6 +1,7 @@
 # Focus Flow - React-Vite Test-Driven Development (TDD) Testing Tutorial (Vitest)
 
-<img width="617" height="475" alt="Screenshot 2025-06-18 at 13 58 33" src="https://github.com/user-attachments/assets/0c3a88d2-7985-41ab-8e44-e5fae93ef1f6" /> <img width="882" height="276" alt="Screenshot 2025-06-18 at 13 58 10" src="https://github.com/user-attachments/assets/f0c9fa32-55d8-4953-94d0-2c5c5c8d59f5" />
+![Screenshot 2025-06-18 at 13 58 33](https://github.com/user-attachments/assets/0c3a88d2-7985-41ab-8e44-e5fae93ef1f6)
+![Screenshot 2025-06-18 at 13 58 10](https://github.com/user-attachments/assets/f0c9fa32-55d8-4953-94d0-2c5c5c8d59f5)
 
 ---
 
